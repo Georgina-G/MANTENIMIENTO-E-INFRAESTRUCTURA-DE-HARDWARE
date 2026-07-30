@@ -17,5 +17,5 @@ https://youtu.be/LM9D78tgqrE
 ## Trifoliar
 [Ver Trifoliar](Trifoliar%20Mantenimiento.pdf)
 
-## PROMPTS
+## Prompt
 [Ver PROMPTS](PROMPTS.pdf)
