@@ -10,3 +10,12 @@
 
 ## Video-tutorial 
 https://youtu.be/LM9D78tgqrE
+
+## Manual Técnic
+(Manual Técnico Mantenimiento.pdf)
+
+## Trifoliar
+(Trifoliar Mantenimiento.pdf)
+
+## PROMPTS
+(PROMPTS.pdf)
